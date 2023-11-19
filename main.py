@@ -17,4 +17,3 @@ cur.execute("CREATE TABLE Dz_10 (name TEXT, temperature TEXT);")
 
 connection.commit()
 connection.close()
-connection.close()
